@@ -1,7 +1,7 @@
 # FW-Assignment
 A file based key-value data store that supports the basic CRD (create, read, delete) operations. This data store  is meant to be used as a local storage for one single process on one laptop.
 
-##I've achieved the following functional requirements.
+## I've achieved the following functional requirements.
 
 1. It initializes using an optional file path. If one is not provided, it
 creates itself in a reasonable location on the pc.
@@ -30,5 +30,5 @@ The data store must therefore be thread-safe.
 deriving maximum performance with respect to response times for accessing the data
 store.
 
-##Language Used:
+## Language Used:
 Java
